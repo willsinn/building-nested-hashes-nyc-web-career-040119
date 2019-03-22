@@ -19,7 +19,7 @@ def bonus
       ]
    }
   }
-epic_tragedy[0]
+epic_tragedy[1][:heroine][:status =]
   #code your solution here:
 
   
