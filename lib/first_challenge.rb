@@ -1,3 +1,6 @@
 def first_challenge
-   epic_tragedy = {}
+   first_challenge_keys = {
+     :montague => {},
+     :capulet => {}
+   }
 end
