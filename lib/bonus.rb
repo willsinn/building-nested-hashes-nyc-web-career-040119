@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-epic_tragedy[1][:heroine][:status] = "dead"
+epic_tragedy[1][:heroine][:status]="dead"
 epic_tragedy
   
 
