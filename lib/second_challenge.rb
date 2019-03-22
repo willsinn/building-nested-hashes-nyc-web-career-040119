@@ -4,7 +4,6 @@ def second_challenge
       #your key/value pairs here!
       }, 
     :capulet => {
-      #your key/value pairs here!
       }}
 
   
