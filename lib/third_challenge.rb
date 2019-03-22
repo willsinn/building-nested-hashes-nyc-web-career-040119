@@ -11,7 +11,10 @@ def third_challenge
         :age =>{}        },
       :hero => {
         :name =>{},
-        :age =>{}        },
+        :age =>{},
+        :status => {}
+        
+      },
       :hero_friends => []
    }, 
    :capulet => {
@@ -23,7 +26,10 @@ def third_challenge
         :age =>{}        },
       :heroine => {
         :name =>{},
-        :age =>{}        },
+        :age =>{},
+        :status => {}
+        
+      },
       :heroine_friends => []
    }
   }
