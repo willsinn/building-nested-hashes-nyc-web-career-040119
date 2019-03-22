@@ -13,6 +13,6 @@ def second_challenge
       :hero_friends => {}      
     }
   }
-ends
+end
   
 end
